@@ -22,7 +22,6 @@
       <name sort-separator=", " delimiter=", " and="symbol" initialize-with="." delimiter-precedes-last="never" name-as-sort-order="all"/>
     </names>
   </macro>
-  <macro name="access"/>
   <macro name="issuance">
     <choose>
       <if type="bill book graphic legal_case legislation motion_picture report song" match="any">
