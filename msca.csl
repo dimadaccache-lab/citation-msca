@@ -56,7 +56,6 @@
       <text variable="volume" font-weight="normal" suffix=", "/>
       <text variable="page"/>
       <text macro="issuance"/>
-      <text macro="access"/>
     </layout>
   </bibliography>
 </style>
